@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  style: MyString
+  hop: MyString
+  ibu: MyString
+  alcohol: MyString
+
+two:
+  style: MyString
+  hop: MyString
+  ibu: MyString
+  alcohol: MyString
